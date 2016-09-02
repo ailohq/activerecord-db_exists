@@ -1,6 +1,6 @@
 # ActiveRecord::DbExists
 
-Thi gem provides a useful rake task missing from ActiveRecord - one that provides command-line feedback on the presence of a database.
+This gem provides a useful rake task missing from ActiveRecord - one that provides command-line feedback on the presence of a database.
 
 ## Installation
 
